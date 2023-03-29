@@ -5,6 +5,7 @@ import java.util.List;
 
 public class PlaylistManager {
     public PlaylistManager(String[] songs) {
+
     }
 
     public PlaylistManager(List<String> songs) {
